@@ -8,7 +8,9 @@ This project required:
   + Shuffling an array for randomness
   + Collecting and analyzing the results of 1 million randomized hands
   
-* Uploaded after completion
+  
+  
+...uploaded after completion
 
 
 
