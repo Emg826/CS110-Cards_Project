@@ -5,7 +5,7 @@ In this project the goal was to simulate poker hands and analyze those hands to 
 
 This project required: 
   + Simulating a 'deck of cards' using an array and a 'hand' using the first 5 elements in that array
-  + Shuffling an array for to maintain randomness
+  + Shuffling an array to maintain randomness
   + Collecting and analyzing the results of 1 million randomized hands
   
   
